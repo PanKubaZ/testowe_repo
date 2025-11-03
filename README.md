@@ -1,2 +1,4 @@
 # testowe_repo
-Pobierz i zmodyfikuj
+Pobierz i zmodyfikuj i zos zrob
+
+yruyruyr
